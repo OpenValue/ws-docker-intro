@@ -69,7 +69,7 @@ If you need any help please flag your benevolent dictators.
 
 Then you can build your image with 
 ```
-Docker build .
+docker build .
 ```
 
 And then run your app, open the correct port and show the rest of the team the beautiful output of your app.
